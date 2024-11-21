@@ -526,6 +526,9 @@
 /* Text for a label that indicates the description for request desktop tip. */
 "Tip.RequestDesktop.Description" = "Дзеянні старонкі > Поўная версія сайта";
 
+/* Text for a label that indicates the description for request desktop tip. */
+"Tip.RequestDesktop.Description" = "Дзеянні старонкі > Поўная версія сайта";
+
 /* Text for a label that indicates the title for request desktop tip. */
 "Tip.RequestDesktop.Title" = "Хочаце пабачыць поўную версію сайта?";
 
